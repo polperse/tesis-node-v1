@@ -1,0 +1,25 @@
+{
+  "name": "tesis-node-v1",
+  "version": "1.0.0",
+  "description": "node app to connect with vision api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polperse/tesis-node-v1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "google",
+    "vision",
+    "API"
+  ],
+  "author": "polperse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polperse/tesis-node-v1/issues"
+  },
+  "homepage": "https://github.com/polperse/tesis-node-v1#readme"
+}
